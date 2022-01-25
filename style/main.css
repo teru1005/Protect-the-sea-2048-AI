@@ -1118,3 +1118,82 @@ input[type="text"].state-input {
         .btc-donate .address:after {
           left: 50%;
           bottom: 2px; } }
+
+.tile.tile-2 .tile-inner {
+  background-image: url(img/222.png);
+  background-repeat: no-repeat; 
+  background-position: center;
+  background-size: cover;
+}
+.tile.tile-4 .tile-inner {
+  background-image: url(img/4.png);
+  background-repeat: no-repeat; 
+  background-position: center;
+  background-size: cover;
+}
+.tile.tile-8 .tile-inner {
+  background-image: url(img/8.png);
+  background-repeat: no-repeat; 
+  background-position: center;
+  background-size: cover;
+}
+.tile.tile-16 .tile-inner {
+  background-image: url(img/16.png);
+  background-repeat: no-repeat; 
+  background-position: center;
+  background-size: cover;
+}
+.tile.tile-32 .tile-inner {
+  background-image: url(img/32.png);
+  background-repeat: no-repeat; 
+  background-position: center;
+  background-size: cover;
+}
+.tile.tile-64 .tile-inner {
+  background-image: url(img/64.png);
+  background-repeat: no-repeat; 
+  background-position: center;
+  background-size: cover;
+}
+.tile.tile-128 .tile-inner {
+  background-image: url(img/128.png);
+  background-repeat: no-repeat; 
+  background-position: center;
+  background-size: cover;
+}
+.tile.tile-256 .tile-inner {
+  background-image: url(img/256.png);
+  background-repeat: no-repeat; 
+  background-position: center;
+  background-size: cover;
+}
+.tile.tile-512 .tile-inner {
+  background-image: url(img/512.png);
+  background-repeat: no-repeat; 
+  background-position: center;
+  background-size: cover;
+}
+.tile.tile-1024 .tile-inner {
+  background-image: url(img/102.png);
+  background-repeat: no-repeat; 
+  background-position: center;
+  background-size: cover;
+}
+.tile.tile-2048 .tile-inner {
+  background-image: url(img/204.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.tile.tile-4096 .tile-inner {
+  background-image: url(img/409.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.tile.tile-8192 .tile-inner {
+  background-image: url(img/819.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
