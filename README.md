@@ -5,7 +5,7 @@
 
 [Play it here!](https://teru1005.github.io/Protect-the-sea-2048-AI/)
 
-＃# License
+## License
 
 このサイトは[MIT lisence](https://github.com/teru1005/Protect-the-sea-2048-AI/blob/main/LICENSE.txt)に帰属します。
 
