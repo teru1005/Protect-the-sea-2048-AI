@@ -10,4 +10,4 @@
 このサイトは[MIT lisence](https://github.com/teru1005/Protect-the-sea-2048-AI/blob/main/LICENSE.txt)に帰属します。
 
 made by teru.  
-2021/1/18~
+2021/1/18~2021/2/24
